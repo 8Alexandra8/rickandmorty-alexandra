@@ -1,0 +1,13 @@
+@import "./reset.scss";
+@import "./variables.scss";
+
+@import "./common-blocks/header.scss";
+@import "./common-blocks/footer.scss";
+@import "./common-blocks/loader.scss";
+@import "./common-blocks/app-label.scss";
+@import "./common-blocks/character-card.scss";
+@import "./common-blocks/characters.scss";
+
+.container {
+  min-height: 100vh;
+}
